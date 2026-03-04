@@ -1,0 +1,24 @@
+{
+  "name": "ci-geek-math",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/leomascarenhas/ci-geek-math#readme",
+  "bugs": {
+    "url": "https://github.com/leomascarenhas/ci-geek-math/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomascarenhas/ci-geek-math.git"
+  },
+  "license": "ISC",
+  "author": "Leo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "jest": "^30.2.0"
+  }
+}
